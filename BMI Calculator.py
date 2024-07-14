@@ -1,11 +1,6 @@
 
 
 #bmi=weight in kgs/height2 in meters
-
-import streamlit as st
-import pandas as pd
-import numpy as np
-
 import streamlit as st
 
 st.title('Welcome to the BMI calculator')
